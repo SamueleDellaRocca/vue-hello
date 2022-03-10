@@ -3,3 +3,8 @@
     color: red;
     background-color: yellow;
 }
+
+.input {
+    display: block;
+    font-size: 2rem;
+}
